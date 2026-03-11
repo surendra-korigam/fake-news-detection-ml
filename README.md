@@ -42,26 +42,7 @@ Flask (Web framework)
 
 HTML / CSS
 
-Project Structure
-fake-news-detection
-│
-├── dataset
-│   ├── Fake.csv
-│   └── True.csv
-│
-├── model
-│   ├── model.pkl
-│   └── vectorizer.pkl
-│
-├── static
-│   └── style.css
-│
-├── templates
-│   └── index.html
-│
-├── train_model.py
-├── app.py
-└── requirements.txt
+
 Dataset
 
 The project uses the Fake and Real News Dataset containing news articles labeled as fake or real.
